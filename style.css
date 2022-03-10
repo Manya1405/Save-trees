@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    background-color:green;
+    }
+    
+    #album
+    {
+    width:450px;
+    border-radius:30px;
+    }
